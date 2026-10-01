@@ -49,7 +49,7 @@ El menú de navegación está compuesto por cinco secciones:
 ![Sobre mí](img/sobremi.png)
 
 ### Perfil
-![Perfil](img/perfil.png)
+![Perfil](img/perfil2.png)
 
 ### Proyectos
 ![Proyectos](img/proyectos.png)
