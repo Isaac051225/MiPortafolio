@@ -43,19 +43,19 @@ El menú de navegación está compuesto por cinco secciones:
 
 11. ## Capturas de pantalla
 ### Inicio
-![Inicio](img/captura-inicio.png)
+![Inicio](img/inicio.png)
 
 ### Sobre mí
-![Sobre mí](img/captura-sobre-mi.png)
+![Sobre mí](img/sobremi.png)
 
 ### Perfil
-![Perfil](img/captura-perfil.png)
+![Perfil](img/perfil.png)
 
 ### Proyectos
-![Proyectos](img/captura-proyectos.png)
+![Proyectos](img/proyectos.png)
 
 ### Contacto
-![Contacto](img/captura-contacto.png)
+![Contacto](img/contacto.png)
 
 ## Créditos
 Plantilla **AirCV** por [KeenThemes](http://www.keenthemes.com/), distribuida por [ThemeWagon](https://themewagon.com/).
