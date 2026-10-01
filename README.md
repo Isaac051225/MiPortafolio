@@ -5,7 +5,7 @@
 * **Nombre del proyecto:** Portafolio personal
 * **Materia:** Programación Web
 * **Institución:** Instituto Tecnológico de Oaxaca
-* **Repositorio:** https://github.com/TU_USUARIO/TU_REPOSITORIO
+* **Repositorio:** https://github.com/Isaac051225/MiPortafolio
 * **GitHub Pages:** https://TU_USUARIO.github.io/TU_REPOSITORIO/
 
 Portafolio web personal construido con HTML, CSS y JavaScript a partir de una plantilla de Bootstrap. Presenta mi perfil como estudiante de Ingeniería en Sistemas Computacionales, mis habilidades, mi formación y mis proyectos.
